@@ -5,7 +5,7 @@
 This is a Java command line program. It is a calculator that computes operations like:
 - number sign number
 - number sign number sign number sign number etc
-- (number sign number) sign (number sign number).
+- (number sign number) sign (number sign number).</br>
 The user is asked to enter an expression, the program displays the answer, then asks to enter an option. The options are:
 - 'm', to record the last result in the memory
 - 'mr', to display the result recorded in the memory
