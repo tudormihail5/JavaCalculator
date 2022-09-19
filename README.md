@@ -21,6 +21,7 @@ The user can also type 'sign number', that will use the memory stored number, an
 - It takes the string input and verifies if the expression is valid, collecting the numbers and the sign.
 - This method is divided into many parts by if and else, in order to be able to take every imput case.
 - The final lines of each part compute the results, depending on the sign entered by the user.
+- I have used recursivity to deal with the long expressions, making the calculator able to deal with every kind of string.
 - I have also created getters and setters for the options, that will make the user able to record a value, to see it, clear it, and see the history. These methods are used in main.
 - I have added useful messages in main, that will make the calculator much easier to be used.
 
