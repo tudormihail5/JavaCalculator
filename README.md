@@ -13,7 +13,7 @@ The user is asked to enter an expression, the program displays the answer, then 
 - 'c', to clear the memory
 - 'h', to display all the previous results since compiling the program.
 
-The user can also type [sign number], that will use the memory stored number, and the program will display the result. The program will run until the user will enter 'EXIT'.
+The user can also type 'sign number', that will use the memory stored number, and the program will display the result. The program will run until the user will enter 'EXIT'.
 
 ### How I built it:
 
