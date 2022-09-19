@@ -27,4 +27,6 @@ The user can also type 'sign number', that will use the memory stored number, an
 
 ### Challenges I ran into:
 
-It was pretty hard to deal will al the invalid inputs. Also, I had to take care of the 0 division, which is impossible, and the negative numbers, because they involve one more '-'.
+It was pretty hard to deal will al the invalid inputs. Also, I had to take care of the 0 division, which is impossible, and the negative numbers, because they involve one more '-'. Also, I had to make the calculator useful for all the rational numbers, and deal will the '.' between digits.
+
+![JavaCalculator](https://github.com/tudormihail5/JavaCalculator/blob/main/Screenshot.png)
